@@ -3,8 +3,8 @@
 import time
 from sys import exit
 import shlex, subprocess
-from subprocess import Popen
-from subprocess import PIPE
+#from subprocess import Popen
+#from subprocess import PIPE
 import drumhat
 import serial
 import sys
