@@ -9,6 +9,7 @@ albums = {
 '5F00BFD5E7D2': 'sommer-im-moewenweg.pls',
 '64009FC585BB': 'ferris-hits.pls',
 '5F00BFBB7A21': 'ronja.pls',
-'5F00BFCB755E': 'bundtkuerbis.pls'
+'5F00BFCB755E': 'bundtkuerbis.pls',
+'5F00BFBDDF82': 'preusslerhexe.pls'
 }
 test = 12
