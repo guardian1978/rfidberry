@@ -7,6 +7,7 @@ albums = {
 '010A3ACD3AC6': '30-beste-kindergartenlieder.pls',
 '64009CAA82D0': 'karokarottepony.pls',
 '5F00BFD5E7D2': 'sommer-im-moewenweg.pls',
-'64009FC585BB': 'ferris-hits.pls'
+'64009FC585BB': 'ferris-hits.pls',
+'5F00BFBB7A21': 'ronja.pls'
 }
 test = 12
