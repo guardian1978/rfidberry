@@ -11,6 +11,7 @@ albums = {
 '5F00BFBB7A21': 'ronja.pls',
 '5F00BFCB755E': 'bundtkuerbis.pls',
 '5F00BFBDDF82': 'preusslerhexe.pls',
-'5F00BFD5E2D7': 'hotzenplotz.pls'
+'5F00BFD5E2D7': 'hotzenplotz.pls',
+'64009BC398A4': 'lottakannfastalles.pls'
 }
 test = 12
