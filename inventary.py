@@ -20,6 +20,7 @@ albums = {
 '5F00C2E8483D': 'rolfshasengeschichte.pls',
 '640091B00A4F': 'rolfskinderfruehling.pls',
 '64009194B3D2': 'rolfsdezembertraeume.pls',
-'640091B01A5F': 'rolfsehnsucht.pls'
+'640091B01A5F': 'rolfsehnsucht.pls',
+'640091B0195C': 'rolftop100.pls'
 }
 test = 12
