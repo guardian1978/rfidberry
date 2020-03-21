@@ -15,6 +15,7 @@ albums = {
 '64009BC398A4': 'lottakannfastalles.pls',
 '64009BC39BA7': 'lottaziehtum.pls',
 '64009BC3BD81': 'lottaradfahren.pls',
-'5F00BFE5F9FC': '30-beste-fruehlingslieder.pls'
+'5F00BFE5F9FC': '30-beste-fruehlingslieder.pls',
+'5F00BFE5FAFF': 'froschimrotencabrio.pls'
 }
 test = 12
