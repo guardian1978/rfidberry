@@ -24,6 +24,11 @@ albums = {
 '640091B0195C': 'rolftop100.pls',
 '5F00C4FE0065': 'stbernhardhits.pls',
 '5F00C4FDF791': 'michelsuppenschuessel.pls',
-'5F00C5272D90': 'pippilangstrumpf.pls'
+'5F00C5272D90': 'pippilangstrumpf.pls',
+'3200AEFE4F2D': 'michelweltinordnung.pls',
+'3200AF67A953': 'michelmaenchen.pls',
+'3200AF0232AD': 'pippiausserrandundband.pls',
+'3200AEF683E9': 'pippigehtvonbord.pls',
+'3200AF6A6E99': 'pippitakatuka.pls'
 }
 test = 12
