@@ -23,6 +23,7 @@ albums = {
 '640091B01A5F': 'rolfsehnsucht.pls',
 '640091B0195C': 'rolftop100.pls',
 '5F00C4FE0065': 'stbernhardhits.pls',
-'5F00C4FDF791': 'michelsuppenschuessel.pls'
+'5F00C4FDF791': 'michelsuppenschuessel.pls',
+'5F00C5272D90': 'pippilangstrumpf.pls'
 }
 test = 12
