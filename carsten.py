@@ -10,42 +10,7 @@ import serial
 import sys
 from operator import xor
 
-#import inventary
-
 leds = [False, False, False, False, False, False, False, False]
-
-#def get_rfid_data():
-#    ID = ""
-#    Zeichen = 0
-#    Checksumme = 0
-#    Tag = 0
-#    Startflag = "\x02"
-#    Endflag = "\x03"
-#    print("Getting RFID Data")
-    #print("opening port")
-#    UART = serial.Serial("/dev/ttyAMA0", 9600, timeout=2)
-    #UART.open()
-#    UART.flush()
-    #print("port opened")
-#    Zeichen = UART.read()
-#    if Zeichen == Startflag:
-#      print("startflag erkannt")
-#    for Counter in range(13):
-#        Zeichen = UART.read()
-#        ID = ID + str(Zeichen)
-#    ID = ID.replace(Endflag, "")
-    #print ID
-    #for I in range(0, 9, 2):
-        #Checksumme = Checksumme ^ (((int(ID[I], 16)) << 4) + int(ID[I+1], 16))
-    #Checksumme = hex(Checksumme)
-    #Tag = (((int(ID[1], 16)) << 8) + ((int(ID[2], 16)) << 4) + ((int(ID[3], 16)) << 0))
-    #Tag = hex(Tag)
-    #print("------------------------")
-    #print "Datensatz: ", ID
-    #print "Tag: " , Tag
-#    print "Id: from Tag ", ID[4:10]
-#    UART.close()   
-#    return ID[4:10]
 
 def get_rfid_data():
     ser = serial.Serial("/dev/ttyAMA0")
