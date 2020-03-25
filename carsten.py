@@ -45,11 +45,11 @@ def hit_handler(event):
         if albumtitle != -1:
             print albumtitle
             load_album(albumtitle)
-    elif event.pad == 2:
-        TestId = get_rfid_data()
-        albumtitle = find_album(TestId)
-        if albumtitle != -1:
-            print albumtitle
+    #elif event.pad == 2:
+    #    TestId = get_rfid_data()
+    #    albumtitle = find_album(TestId)
+    #    if albumtitle != -1:
+    #        print albumtitle
 
 def load_album(albumtitle):
     subprocess.call(["mpc", "stop"])
