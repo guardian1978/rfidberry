@@ -29,6 +29,15 @@ albums = {
 '3200AF67A953': 'michelmaenchen.pls',
 '3200AF0232AD': 'pippiausserrandundband.pls',
 '3200AEF683E9': 'pippigehtvonbord.pls',
-'3200AF6A6E99': 'pippitakatuka.pls'
+'3200AF6A6E99': 'pippitakatuka.pls',
+'3200AEFB6205': 'tkkgyeti.pls',
+'3200AF651BE3': 'tkkgwagenburg.pls',
+'3200AF0520B8': 'tkkgverschwoerung.pls',
+'3200AEF97015': 'karoclubdermaedchen.pls',
+'3200AF6D06F6': 'karohund.pls'
 }
 test = 12
+
+
+
+
