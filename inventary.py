@@ -34,7 +34,11 @@ albums = {
 '3200AF651BE3': 'tkkgwagenburg.pls',
 '3200AF0520B8': 'tkkgverschwoerung.pls',
 '3200AEF97015': 'karoclubdermaedchen.pls',
-'3200AF6D06F6': 'karohund.pls'
+'3200AF6D06F6': 'karohund.pls',
+'3200CFF70309': 'flausenimkopf.pls',
+'3200D1FF8E92': 'vollemaehne.pls',
+'3200AEF87713': 'immerdennuestern.pls',
+'3200AF62AC53': 'talderdinos.pls'
 }
 test = 12
 
