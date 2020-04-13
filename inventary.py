@@ -38,7 +38,8 @@ albums = {
 '3200CFF70309': 'flausenimkopf.pls',
 '3200D1FF8E92': 'vollemaehne.pls',
 '3200AEF87713': 'immerdennuestern.pls',
-'3200AF62AC53': 'talderdinos.pls'
+'3200AF62AC53': 'talderdinos.pls',
+'3200AF07168C': 'janosch.pls'
 }
 test = 12
 
