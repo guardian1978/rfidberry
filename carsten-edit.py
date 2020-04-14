@@ -46,8 +46,18 @@ def hit_handler(event):
             print albumtitle
             load_album(albumtitle)
     elif event.pad == 2:
+        leds[event.pad-1] = not leds[event.pad-1]
+        update_led(event.pad, leds[event.pad-1])
+        
         TestId = get_rfid_data()
+        f = open("inventary.py", "a")
+        f.write("%s\r\n", TestId)
+        f.close()
+        print("Id written to inventary file.")
         albumtitle = find_album(TestId)
+
+        leds[event.pad-1] = not leds[event.pad-1]
+        update_led(event.pad, leds[event.pad-1])
         if albumtitle != -1:
             print albumtitle
 
