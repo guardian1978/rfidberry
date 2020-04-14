@@ -24,6 +24,17 @@ def get_rfid_data():
     daten = daten.replace("stop","")
     print "Id:", daten
     return daten
+
+def write_tag(tag):
+    #print("open file")
+    f = open("tags.py", "a")
+    #print("write to file")
+    #print(tag)
+    f.write(tag + '\n')
+    #print("close file")
+    f.close()
+    #print("go back")
+    return 0
     
 def hit_handler(event):
     print("Hit on pad: {}".format(event.pad))
@@ -50,9 +61,10 @@ def hit_handler(event):
         update_led(event.pad, leds[event.pad-1])
         
         TestId = get_rfid_data()
-        f = open("inventary.py", "a")
-        f.write("%s\r\n", TestId)
-        f.close()
+        write_tag(TestId)
+        #f = open("inventary.py", "a")
+        #f.write("%s\r\n", TestId)
+        #f.close()
         print("Id written to inventary file.")
         albumtitle = find_album(TestId)
 
