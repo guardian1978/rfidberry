@@ -40,7 +40,9 @@ albums = {
 '3200AEF87713': 'immerdennuestern.pls',
 '3200AF62AC53': 'talderdinos.pls',
 '3200AF07168C': 'janosch.pls',
-'3200AEFC5B3B': 'kinnerhits.pls'
+'3200AEFC5B3B': 'kinnerhits.pls',
+'3200CFF4454C': 'knochendocs.pls',
+'3200D1FCF0EF': 'bibilieder.pls'
 }
 test = 12
 
